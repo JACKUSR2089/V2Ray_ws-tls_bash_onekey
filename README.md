@@ -3,7 +3,9 @@
 > 感谢 JetBrains 提供的非商业开源软件开发授权
 
 > Thanks for non-commercial open source development authorization by JetBrains
-### Telegram 群组
+### Telegram 群组\
+* 打赏我 https://www.paypal.com/paypalme/uaa2020
+
 * telegram 交流群:https://t.me/wulabing_v2ray 
 * telegram 更新公告频道：https://t.me/wulabing_channel
 
